@@ -1,0 +1,9 @@
+[submodule "loonic-api-company"]
+	path = loonic-api-company
+	url = git@github.com:loomi/loonic-api-company.git
+[submodule "loonic-api-rubric"]
+	path = loonic-api-rubric
+	url = git@github.com:loomi/loonic-api-rubric.git
+[submodule "loonic-api-payroll"]
+	path = loonic-api-payroll
+	url = git@github.com:loomi/loonic-api-payroll.git
