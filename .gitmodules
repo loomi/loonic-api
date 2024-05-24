@@ -7,3 +7,6 @@
 [submodule "loonic-api-payroll"]
 	path = loonic-api-payroll
 	url = git@github.com:loomi/loonic-api-payroll.git
+[submodule "loonic-api-report"]
+	path = loonic-api-report
+	url = git@github.com:loomi/loonic-api-report.git
